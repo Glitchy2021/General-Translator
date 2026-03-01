@@ -1,0 +1,1 @@
+	In this program, the object is English message translator that translate English to morse or binary code.
